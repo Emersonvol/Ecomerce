@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+header {
+  text-align: center;
+  box-sizing: border-box;
+  width: 100vw;
+  font-weight: 400;
+  font-family: "Roboto Mono", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  height: 100px;
+  .divHeader {
+    background-color: #323132;
+    height: 100%;
+    padding: 1.5em 1em;
+
+
+    .navBar {
+      display: flex;
+      align-items: center;
+      background-color: #cac9c9;
+      border-radius: 19px;
+
+      justify-content: space-between;
+      .link {
+        color: #323132;
+        text-transform: uppercase;
+        font-size: 14px;
+        margin: 0em;
+        width: 100%;
+        padding: 16px;
+      }
+      .estiloLinkAtivo {
+        color: #e0e1e0;
+        text-transform: uppercase;
+        background-color: #535153;
+        padding: 16px;
+        width: 100%;
+      }
+      .estiloLinkAtivo:first-of-type {
+        border-radius: 15px 0 0 15px;
+      }
+
+      .estiloLinkAtivo:last-of-type {
+        border-radius: 0 15px 15px 0;
+      }
+    }
+  }
+}
