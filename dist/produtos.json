@@ -1,0 +1,65 @@
+[
+  {
+    "imagem": "/assets/img/programadorJava.webp",
+    "nome": "Programador java",
+    "empresa": "hotmart",
+    
+    "link": "https://go.hotmart.com/L94238488F",
+    "classe": "Curso",
+    "textoAlternativo": "Programador java"
+  },
+  {
+    "imagem": "/assets/img/pocote_fullstack.webp",
+    "nome": "Pacote Full-Stack",
+    "empresa": "hotmart",
+    
+    "link": "https://go.hotmart.com/C94478939A",
+    "classe": "Curso",
+    "textoAlternativo": "Pacote Full-Stack"
+  },
+  {
+    "imagem": "/assets/img/Resumão - Linguagem C.webp",
+    "nome": "Resumão - Linguagem C",
+    "empresa": "hotmart",
+    
+    "link": "https://go.hotmart.com/B94478957B",
+    "classe": "Curso",
+    "textoAlternativo": "Resumão - Linguagem C"
+  },
+  {
+    "imagem": "/assets/img/Notebook Dell Inspiron I15-I120K-U20P 15.6 Full.webp",
+    "nome": "Notebook Dell Inspiron I15-I120K-U20P  Linux Preto",
+    
+   
+
+    "link": "https://divulgador.magalu.com/D-vUj9CP",
+    "classe": "Eletronico",
+    "textoAlternativo": "Notebook Dell Inspiron I15-I120K-U20P 15.6 Full HD 12ª Geração Intel Core i5 8GB 256GB SSD Linux Preto"
+  },
+  {
+    "imagem": "/assets/img/Notebook Gamer Acer Nitro .webp",
+    "nome": "Notebook Gamer Acer Nitro V15 Intel Core i5-13420H",
+    
+   
+    "link": "https://divulgador.magalu.com/yhfi8RgB",
+    "classe": "Eletronico",
+    "textoAlternativo": "Notebook Gamer Acer Nitro V15 Intel Core i5-13420H"
+  },
+  {
+    "imagem": "/assets/img/Torre AMVOX ACA 1000 NEW X .webp",
+    "nome": "Caixa de Som Torre AMVOX ACA 1000 NEW X - Bluetooth 1000W RMS Amplificada",
+    
+   
+    "link": "https://divulgador.magalu.com/SaKVQoi9",
+    "classe": "Eletronico",
+    "textoAlternativo": "Caixa de Som Torre AMVOX ACA 1000 NEW X - Bluetooth 1000W RMS Amplificada"
+  },
+  {
+    "imagem": "/assets/img/Headset Gamer Redragon Zeus X.webp",
+    "nome": "Headset Gamer Redragon Zeus X, Chroma Mk.II",
+  
+    "link": "https://divulgador.magalu.com/jTbPf-h9",
+    "classe": "Eletronico",
+    "textoAlternativo": "Headset Gamer Redragon Zeus X, Chroma Mk.II, RGB, Som Surround 7.1, Drivers 53mm, USB, Preto e Vermelho - H510-RGB"
+  }
+]
